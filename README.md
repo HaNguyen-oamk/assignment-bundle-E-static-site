@@ -2,6 +2,7 @@
 # Welcome to My Blog!
 
 Hello and welcome to my blog! 
+
 ![Alt text](https://t4.ftcdn.net/jpg/02/71/29/75/360_F_271297554_0DAlzyFb8jzYg0lfmUOzyhtMer0orz4h.jpg)
 
 ## About Me
@@ -12,7 +13,10 @@ My name is *Ha Nguyen*.
 - **Interests**:
   - Coding
   - Blogging
-  - 
+    
+> [!NOTE]
+> This is a note section where you can add helpful informations.
+
 ## Blog Topics
 
 In this blog, you can expect to find posts on:
@@ -34,7 +38,7 @@ Feel free to reach out! You can find me on:
 - [LinkedIn](https://linkedin.com)
 - [GitHub](https://github.com)
 
-## Subscribe
+## Subscribe :+1:
 
 Thank you for visiting my blog! 
 ---
