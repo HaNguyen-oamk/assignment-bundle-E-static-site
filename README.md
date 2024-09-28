@@ -21,11 +21,10 @@ My name is *Ha Nguyen*.
 
 In this blog, you can expect to find posts on:
 
-1. **About me**: 
-
-2. **Project Updates**:
+| **Content 1**  | **Content 2**         | 
+|----------------|-----------------------|
+| **About me**   | **Project Updates**   | 
    
-
 ## Recent Posts
 
 ### [How I Built My First Web App](#)
