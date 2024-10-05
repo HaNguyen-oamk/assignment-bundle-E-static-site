@@ -1,7 +1,7 @@
 # assignment-bundle-E-static-site
 # Welcome to My Blog!
 
-Hello and welcome to my blog! 
+Hello and welcome to my blog! :smiley:	
 
 ![Alt text](https://t4.ftcdn.net/jpg/02/71/29/75/360_F_271297554_0DAlzyFb8jzYg0lfmUOzyhtMer0orz4h.jpg)
 
